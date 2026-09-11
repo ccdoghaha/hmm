@@ -1,4 +1,4 @@
-# Statistics, Hidden Markov Models, and State Analysis
+# HMM —  Hidden Markov Models & State Analysis with CatBoost
 
 *A technical essay on `CNN_catBoost_Align_15min_o.py`, `summary.py`, and the
 step-0.25 batch record `report0251/summary_step0.25_20260911T013630Z.csv`.*

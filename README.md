@@ -1,4 +1,4 @@
-# HMM — Statistics, Hidden Markov Models & State Analysis
+# HMM —  Hidden Markov Models & State Analysis with CatBoost
 
 Point-form introduction to this repository.
 
